@@ -1,6 +1,6 @@
 # PhysiCell-GBM-OV
 This project is for the GBM-OV infiltration study. To run, add the code in the repository to the sample_projects folder in 
-PhysiCell_1.6.0 and add the following code below to all make files, including "Makefile-default", "Makefile-backup" and "Makefile":
+PhysiCell_1.6.0 and add the following code below to all make files, including "PhysiCell/sample_projects/Makefile-default", "PhysiCell/Makefile-backup" and "PhysiCell/Makefile":
 
 Mitra-biotech-sim:
 	cp ./sample_projects/Mitra_biotech_sim/custom_modules/* ./custom_modules/

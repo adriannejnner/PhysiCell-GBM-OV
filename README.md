@@ -10,3 +10,5 @@ Mitra-biotech-sim:
 	cp ./sample_projects/Mitra_biotech_sim/Makefile .
 	cp ./config/PhysiCell_settings.xml ./config/PhysiCell_settings-backup.xml 
 	cp ./sample_projects/Mitra_biotech_sim/config/* ./config/
+
+To create the executable file, in the command line type "make Mitra-biotech-sim" then "make" then "./Mitra_biotech_sim.exe"
